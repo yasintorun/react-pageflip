@@ -46,7 +46,7 @@
         "typescript-plugin-css-modules": "^2.7.0"
     },
     "dependencies": {
-        "page-flip": "yasintorun/StPageFlip"
+        "page-flip": "https://github.com/yasintorun/StPageFlip"
     },
     "keywords": [
         "react",
